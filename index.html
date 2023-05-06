@@ -6,6 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JDM Motors</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        html{
+            height: 100%;
+        }
+        body{
+            background-image: linear-gradient(to right,#EB9191 -11.28%, #F0D9D9 87.83%);
+            background-size: 500% 100%;
+            animation-name: degrade;
+            animation-duration: 6s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+        }
+        @keyframes degrade{
+            0%{
+                background-position-x: 0%;
+            }
+            100%{
+                background-position-x: 100%;
+            }
+        }
 </head>
 
 <body>
