@@ -1,1 +1,5 @@
-@import url("");
+@import url("styles/header.css");
+
+:root{
+    --branco: #FFFFFF; 
+}

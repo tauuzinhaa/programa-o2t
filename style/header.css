@@ -4,3 +4,8 @@
         background-image: url("../logojdm.svg");
         display: inline-block;
     }
+
+    .cabeçalho{
+        background-color: var(--branco);
+    }
+    }
