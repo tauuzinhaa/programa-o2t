@@ -3,3 +3,8 @@
 :root{
     --branco: #FFFFFF; 
 }
+
+.logo{
+    height: 10;
+    width: 10;
+}
