@@ -5,6 +5,9 @@
 }
 
 .logo{
-    height: 6;
-    width: 6;
+    position: absolute;
+    width: 140px;
+    height: 105px;
+    left: 59px;
+    top: 10px;
 }
