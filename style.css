@@ -2,7 +2,6 @@
     height: 24px;
     width: 24px;
     display: inline-block;
-    align-items: center;
 }
 
 .cabecalho{
@@ -10,12 +9,9 @@
     display: flex;
     justify-content: space-between;
 }
-.logojdm{
-    height: 50px;
-    width: 50px;
-    display: inline-block;
-}
+
 .container{
     height: 24px;
     width: 24px;
+    align-items: center;
 }
