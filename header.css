@@ -1,0 +1,6 @@
+.cabecalho_menu{
+    height: 24px;
+    width: 24px;
+    background-image: url(menu.png);
+    display: inline-block;
+}
