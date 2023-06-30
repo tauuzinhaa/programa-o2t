@@ -1,5 +1,15 @@
-@import url(header.css);
+.cabecalho_menu{
+    height: 24px;
+    width: 24px;
+    background-image: url(menu.png);
+    display: inline-block;
+}
 
-:root{
-    --branco: #FFFFFF;
+.cabecalho{
+    background-color: #ffffff;
+}
+.logojdm{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
 }
