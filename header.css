@@ -4,3 +4,7 @@
     background-image: url(menu.png);
     display: inline-block;
 }
+
+.cabecalho{
+    background-color: var(--branco);
+}

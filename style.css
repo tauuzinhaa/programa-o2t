@@ -1,4 +1,5 @@
-.logojdm{
-    width: 24px;
-    height: 24px;
+@import url(header.css);
+
+:root{
+    --branco: #FFFFFF;
 }
