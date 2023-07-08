@@ -1,17 +1,35 @@
-.cabecalho_menu{
-    height: 24px;
-    width: 24px;
-    display: inline-block;
+body{
+    margin: 0;
+    padding: 0;
 }
 
-.cabecalho{
-    background-color: #ffffff;
+header{
+    background-color: white;
+    padding: 20px;
+    position: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
-.container{
-    height: 24px;
-    width: 24px;
-    align-items: center;
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+
+.favoritos,
+.perfil{
+    margin-left: 10px;
 }
